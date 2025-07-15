@@ -1,0 +1,290 @@
+Id do laudo,O nódulo é sólido ou em partes moles?,O nódulo tem densidade semissólida ou parcialmente sólida?,O nódulo é em vidro fosco?,"O nódulo é espiculado, irregular ou mal definido?",O nódulo é calcificado?,Localização do nódulo,Tamanho do nódulo
+5,Não,Não,Não,Não,Não,Não,Não
+8,Não,Não,Não,Não,Não,Não,Não
+14,Não,Não,Não,Não,Não,semento basal antero-medial do lobo inferior esquerdo,Não
+15,Não,Não,Não,Não,Não,Lobos inferiores dos pulmões,Não
+20,Não,Não,Não,Não,Não,no segmento anterior do lobo superior esquerdo,"0,26 x 0,16 cm"
+23,Não,Não,Não,Não,Não,Não,Não
+38,Não,Não,Não,Não,Não,Não,Não
+43,Não,Não,Não,Não,Não,Não,Não
+44,Não,Não,Sim,Não,Não,"no lobo inferior direito, em situação paravertebral",Não
+45,Não,Não,Não,Não,Sim,no segmento anterior do lobo superior esquerdo,"0,5 cm"
+46,Não,Não,Não,Não,Sim,no lobo inferior esquerdo,Não
+50,Não,Não,Não,Não,Não,no segmento apical esquerdo,"0,5 x 0,3 cm"
+51,Não,Não,Não,Não,Sim,no segmento anterior do lobo superior esquerdo,Não
+57,Não,Não,Não,Não,Sim,no segmento superior do lobo inferior esquerdo,Não
+58,Não,Não,Não,Não,Não,no segmento medial do lobo médio (pulmão direito),"0,6 x 0,5 cm"
+66,Não,Não,Não,Não,Não,no segmento lateral do lobo médio (pulmão direito),"0,4 cm"
+71,Não,Não,Não,Não,Não,Não,Não
+73,Não,Não,Não,Não,Sim,no segmento basal posterior esquerdo,"0,23 x 0,18 cm"
+80,Não,Não,Não,Não,Não,no segmento anterior do lobo superior direito,"1,3 x 1,2 cm"
+86,Sim,Não,Não,Não,Não,Parênquima pulmonar,Não
+89,Não,Não,Não,Não,Sim,no segmento anterior do lobo superior esquerdo e no espaço para-aórtico,Não
+106,Sim,Não,Não,Sim,Não,no segmento posterior do lobo superior direito,"2,2 x 1,7 cm"
+109,Não,Não,Não,Não,Sim,no lobo médio,Não
+119,Não,Não,Não,Não,Não,no segmento basal anterior direito,"0,3 cm"
+126,Sim,Não,Sim,Sim,Não,no segmento posterior do lobo inferior direito,"5,8 cm x 5,3 cm x 3,4 cm"
+127,Sim,Não,Não,Não,Não,"no lobo superior direito, no segmento posterior","1,0 cm"
+128,Não,Não,Não,Não,Não,Não,Não
+130,Não,Não,Sim,Não,Sim,na periferia lateral da lingula,"8,9 mm"
+132,Sim,Não,Não,Não,Não,na periferia do segmento superior do lobo inferior a direita,"2,5 mm"
+135,Não,Não,Sim,Sim,Sim,no segmento anterior do lobo superior direito,"0,51 x 0,37 cm"
+137,Sim,Não,Não,Sim,Não,justafissural no lobo inferior do pulmão direito e no lobo médio,"1,8 cm"
+138,Não,Não,Não,Não,Não,Não,Não
+141,Não,Não,Não,Não,Não,no segmento basal anterior direito,"0,5 x 0,4 cm"
+145,Não,Não,Não,Não,Não,no segmento superior do lobo inferior direito,"0,5 cm"
+146,Não,Não,Não,Não,Sim,no segmento basal posterior direito,"0,3 cm"
+148,Não,Não,Não,Não,Sim,no segmento basal posterior direito,"0,3 x 0,26 cm"
+153,Não,Não,Não,Não,Sim,em ambos os pulmões,Não
+158,Sim,Não,Não,Não,Não,no segmento anterior do lobo superior esquerdo,"0,6 cm"
+159,Não,Não,Não,Não,Sim,no segmento posterior do lobo superior direito,Não
+161,Não,Não,Não,Não,Não,Não,Não
+163,Não,Não,Não,Não,Sim,no segmento apical direito,Não
+171,Não,Não,Não,Não,Sim,no segmento apicoposterior do lobo superior esquerdo,"0,3 cm"
+176,Não,Não,Não,Não,Não,segmento basal lateral do lobo inferior esquerdo,Não
+199,Não,Não,Não,Não,Sim,no lobo inferior esquerdo,Não
+201,Não,Não,Não,Não,Não,Não,Não
+206,Não,Não,Não,Não,Não,Não,Não
+211,Não,Não,Não,Não,Sim,no segmento apicoposterior esquerda,Não
+212,Não,Não,Não,Não,Não,Não,Não
+213,Não,Não,Não,Não,Sim,no segmento anterior do lobo superior esquerdo,"0,6 cm"
+215,Não,Não,Não,Não,Sim,no segmento anterior do lobo superior esquerdo,"0,3 cm"
+216,Não,Não,Não,Não,Sim,no segmento superior do lobo inferior direito,"0,9 cm"
+217,Não,Não,Não,Não,Sim,em lobo médio,Não
+219,Sim,Não,Não,Sim,Não,"bilateralmente nos lobos médio, lingula e segmentos posteriores dos lobos inferiores",Não
+220,Não,Não,Não,Não,Sim,no segmento posterior do lobo superior direito,"0,3 cm"
+222,Não,Não,Não,Não,Não,no segmento basal lateral do lobo inferior direito,"0,4 cm"
+224,Não,Não,Não,Não,Não,no lobo médio,"0,4 cm"
+226,Não,Não,Não,Não,Não,no segmento lingular inferior do lobo superior esquerdo,"0,5 cm"
+230,Sim,Não,Não,Não,Não,na base pulmonar esquerda (segmento basal lateral),"1,0 x 1,0 cm"
+232,Não,Não,Não,Não,Não,na transição de lobo superior esquerdo e língula,"0,38 x 0,34 cm"
+238,Não,Não,Não,Não,Não,Segmento posterior do lobo inferior à direita,7 mm
+240,Não,Não,Não,Não,Não,Não,Não
+241,Sim,Sim,Não,Não,Não,no lobo médio,"1,0 cm"
+244,Não,Não,Não,Não,Sim,no segmento basal posterior do lobo inferior esquerdo,"0,6 cm"
+248,Não,Não,Não,Não,Não,no lobo inferior direito,Não
+259,Não,Não,Não,Não,Sim,no segmento anterior do lobo superior esquerdo,5 mm
+260,Não,Não,Não,Não,Não,no segmento medial do lobo médio,"0,2 x 0,1 cm"
+262,Não,Não,Não,Não,Não,Não,Não
+265,Não,Não,Sim,Não,Sim,no segmento anterior do lobo superior direito e no segmento anterior do lobo superior esquerdo,"0,9 cm e 0,5 cm"
+266,Sim,Não,Não,Não,Não,no segmento apical do lobo superior direito,3 mm
+277,Não,Não,Não,Não,Sim,no segmento medial do lobo médio,"0,5 cm"
+280,Sim,Não,Não,Não,Não,na periferia do lobo superior à direita,"5,4 mm"
+283,Não,Não,Não,Não,Sim,no segmento apical do lobo superior direito,"1,0 cm"
+297,Não,Não,Não,Não,Sim,basal à direita,"0,3 cm"
+302,Não,Não,Não,Não,Não,Não,Não
+304,Não,Não,Não,Não,Não,no segmento anterior do lobo superior direito,"0,43 x 0,41 cm"
+311,Não,Não,Não,Não,Não,no lobo médio e segmento anterior do lobo superior do pulmão direito,Não
+313,Não,Não,Não,Não,Sim,no segmento anterior do lobo superior esquerdo,Não
+319,Não,Não,Não,Não,Não,no segmento lingular superior,"0,4 cm"
+325,Não,Não,Não,Não,Não,no segmento basal posterior do lobo inferior direito,Não
+331,Não,Não,Não,Não,Sim,nos segmentos basal anterior do lobo inferior direito e apical do lobo esquerdo,Não
+332,Não,Não,Não,Não,Sim,no segmento basal posterior direito,Não
+340,Não,Não,Sim,Não,Não,em topografia peribrônquio vascular central do lobo superior a direita,Não
+344,Não,Não,Não,Não,Não,no segmento posterior do lobo superior direito,Não
+345,Não,Não,Não,Não,Não,na periferia do lobo inferior à direita,16 mm
+347,Não,Não,Não,Não,Sim,no lobo inferior direito,Não
+353,Não,Não,Não,Não,Não,Não,Não
+354,Não,Não,Não,Não,Não,Não,Não
+359,Não,Não,Não,Não,Não,Não,Não
+360,Não,Não,Não,Não,Não,no subsegmento posterior do lobo superior esquerdo,"0,4 x 0,3 cm"
+370,Sim,Não,Sim,Sim,Não,"em ambos os pulmões, mais evidentes nos lobos superiores",Não
+372,Não,Não,Não,Não,Sim,em ápices pulmonar esquerdo,Não
+373,Não,Não,Não,Não,Não,no segmento anterior do lobo superior direito,"0,31 x 0,28 cm"
+377,Não,Não,Sim,Não,Não,no lobo superior esquerdo e lobo médio,"0,7 cm"
+391,Não,Não,Não,Não,Não,Não,Não
+398,Sim,Não,Não,Não,Não,circunscrito em projeção da periferia do segmento lateral do lobo médio,5.6 mm
+399,Sim,Não,Não,Não,Não,no segmento lateral do lobo médio,8 mm
+404,Não,Não,Sim,Não,Não,em ambos os pulmões,"0,4 cm"
+405,Não,Não,Não,Não,Sim,no lobo superior esquerdo,4 mm
+411,Não,Não,Não,Não,Sim,no segmento basal posterior do lobo inferior direito,"0,6 cm"
+412,Sim,Não,Não,Não,Sim,Lobo superior a direita,4 mm
+418,Não,Não,Sim,Não,Não,no segmento posterior do lobo inferior a esquerda,Não
+423,Não,Não,Não,Não,Sim,no segmento apical direito,"0,3 cm"
+424,Não,Não,Não,Não,Não,no segmento lateral do lobo médio e no segmento anterior do lobo superior direito,"1,0 x 0,7 cm e 0,6 x 0,5 cm"
+425,Não,Não,Não,Não,Não,Não,Não
+426,Não,Não,Sim,Não,Não,no segmento superior do lobo inferior direito,Não
+429,Sim,Não,Não,Não,Não,Periferia do lobo médio,3 mm
+436,Sim,Não,Não,Não,Não,no segmento basal posterior do lobo inferior direito,4 mm
+440,Não,Não,Não,Não,Não,na transição dos segmentos do lobo superior esquerdo,"0,35 x 0,33 cm"
+448,Não,Não,Não,Sim,Sim,no lobo médio (pulmão direito),"0,3 cm"
+450,Não,Não,Não,Não,Sim,no segmento anterior do lobo superior direito,"0,5 cm"
+453,Sim,Não,Não,Não,Não,no lobo médio (pulmão direito),"0,5 cm"
+455,Não,Não,Não,Não,Não,no segmento apical direito,"0,4 cm"
+462,Não,Não,Não,Não,Não,no segmento anterior do lobo superior direito,"0,4 x 0,45 cm"
+463,Não,Não,Sim,Não,Não,Bilateralmente,Não
+467,Não,Não,Não,Não,Sim,no segmento lobo superior esquerdo,Não
+478,Não,Não,Não,Não,Sim,na periferia do lobo médio a direita,Não
+479,Não,Não,Não,Não,Não,Não,Não
+480,Sim,Sim,Sim,Não,Sim,Segmento apico-posterior do lobo superior esquerdo,"0,6 cm"
+483,Não,Não,Não,Não,Sim,no segmento posterior do lobo superior direito,"0,3 cm"
+487,Não,Não,Sim,Não,Não,no lobo inferior esquerdo,Não
+489,Não,Sim,Não,Sim,Não,no segmento superior do lobo inferior esquerdo,"1,6 x 1,1 cm"
+490,Sim,Sim,Não,Não,Sim,no segmento basal posterior do lobo inferior esquerdo,"0,3 cm"
+491,Não,Não,Não,Não,Não,Não,Não
+501,Não,Não,Não,Não,Não,Não,6 mm
+503,Sim,Não,Não,Sim,Não,"peri-hilar à direita, aderido ao brônquio subsegmentar anterior do lobo superior direito","6,3 x 4,9 x 3,6 cm"
+506,Não,Não,Não,Não,Sim,no segmento superior do lobo inferior direito,"1,0 cm"
+514,Não,Não,Não,Não,Sim,"no lobo superior esquerdo, subsegmento posterior","0,6 cm"
+519,Não,Não,Não,Não,Não,no segmento basal posterior esquerdo,"0,51 x 0,34 cm"
+531,Não,Não,Sim,Não,Não,no segmento apical do lobo inferior direito,Não
+540,Sim,Não,Não,Não,Não,no ápice pulmonar à direita,5 mm
+541,Sim,Não,Não,Sim,Não,no segmento superior do lobo inferior esquerdo subpleural,"13 x 11,5 x 17 mm"
+542,Não,Não,Não,Não,Não,no lobo superior esquerdo,Não
+546,Sim,Não,Sim,Não,Não,Periferia lateral do lobo superior a direita,"6,3 mm"
+547,Não,Não,Não,Não,Não,Não,Não
+550,Não,Não,Sim,Não,Não,no segmento posterior do lobo superior direito,"0,48 x 0,46 cm"
+552,Não,Não,Não,Não,Não,no segmento anterior do lobo superior direito,"0,31 cm"
+554,Não,Não,Não,Não,Não,no segmento superior do lobo inferior direito,"0,32 x 0,28 cm"
+556,Sim,Não,Não,Sim,Não,no aspecto posterior do segmento apical direito,"3,3 x 3,1 cm"
+557,Não,Não,Não,Não,Não,Não,Não
+558,Não,Não,Não,Não,Sim,no segmento superior do lobo inferior direito,"0,3 cm"
+559,Não,Não,Não,Não,Não,no ápice pulmonar direito,"0,85 x 0,52 cm"
+560,Não,Não,Sim,Não,Não,Segmento medial do lobo médio e no segmento lingular inferior,Não
+573,Não,Não,Sim,Não,Não,Não,Não
+576,Não,Não,Não,Não,Não,Não,Não
+577,Não,Não,Não,Sim,Não,na periferia do segmento superior da língula,"0,21 x 0,16 cm"
+583,Sim,Não,Não,Não,Sim,no lobo médio,"3,5 mm"
+589,Não,Não,Não,Sim,Não,no segmento basal posterior do lobo inferior esquerdo,"2,6 x 1,6 x 1,8 cm"
+591,Não,Não,Não,Não,Sim,no segmento superior do lobo inferior direito,"0,6 cm"
+595,Sim,Não,Sim,Não,Sim,no segmento basal anterior esquerdo e no segmento posterior do lobo superior direito,6 mm
+598,Não,Não,Sim,Não,Não,no segmento superior do lobo inferior esquerdo,"0,25 x 0,23 cm"
+600,Não,Não,Não,Não,Não,na periferia do lobo superior esquerdo,"0,36 x 0,26 cm"
+602,Não,Não,Não,Não,Não,Não,Não
+613,Não,Não,Não,Não,Sim,no segmento basal posterior do lobo inferior direito,"0,5 cm"
+615,Sim,Não,Não,Não,Sim,Segmento basal posterior do lobo inferior direito,"0,7 cm"
+616,Não,Não,Não,Não,Sim,no lobo inferior esquerdo e no lobo inferior direito e superior esquerdo,"1,0 cm e 0,3 cm"
+618,Sim,Não,Não,Não,Não,no lobo médio (pulmão direito),"1,1 x 1,0 cm"
+619,Não,Não,Não,Não,Não,Não,Não
+624,Não,Não,Sim,Não,Não,no lobo superior a esquerda - segmento apico posterior,Não
+627,Não,Não,Não,Não,Não,no segmento superior do lobo inferior direito,"0,25 x 0,22 cm"
+629,Não,Não,Não,Não,Sim,no segmento lateral basal direito,2 mm
+634,Sim,Não,Não,Não,Não,esparsos por ambos os pulmões,"0,4 x 0,2 cm"
+635,Não,Não,Não,Não,Sim,"na periferia dos segmentos basais do lobo direito, notadamente o lateral e posterior",Não
+637,Não,Não,Não,Não,Sim,na base pulmonar direita,"0,75 x 0,34 cm"
+640,Não,Não,Não,Não,Não,no segmento apical do lobo superior direito,"0,36 x 0,34 cm"
+646,Não,Não,Não,Não,Sim,no subsegmento apical esquerdo,"0,3 cm"
+650,Sim,Não,Não,Não,Não,no segmento apical do lobo superior direito,5 x 3 mm
+659,Não,Não,Sim,Não,Sim,no segmento basal lateral esquerdo,"0,3 cm"
+660,Sim,Não,Não,Não,Não,Periferia do segmento posterior do lobo inferior esquerdo,4 mm
+661,Não,Não,Sim,Não,Não,Lobo inferior esquerdo,Não
+662,Sim,Não,Não,Não,Sim,no segmento anterior do lobo superior esquerdo,"0,5 cm"
+665,Não,Não,Não,Não,Não,esparsos em ambos os pulmões,"0,9 cm"
+666,Sim,Não,Não,Sim,Não,no segmento superior do lobo inferior direito,"0,9 x 0,6 cm"
+673,Sim,Não,Não,Não,Não,no lobo médio,"1,6 x 1,4 cm"
+674,Não,Não,Não,Não,Não,Não,Não
+675,Não,Não,Não,Não,Não,no segmento superior do lobo inferior esquerdo,Não
+677,Não,Não,Não,Não,Sim,na periferia do segmento basal lateral direito,"0,3 cm"
+680,Não,Não,Não,Não,Sim,no segmento superior do lobo inferior direito,Não
+684,Sim,Não,Não,Não,Não,circunscrito no segmento superior do lobo inferior à esquerda,3 mm
+691,Não,Não,Não,Não,Sim,no segmento basal posterior do lobo inferior direito,"0,5 cm"
+693,Sim,Não,Não,Não,Não,Lobo médio à direita,"10,6 mm"
+694,Não,Não,Não,Não,Sim,no segmento basal medial do lobo inferior direito,"0,4 cm"
+697,Não,Não,Sim,Não,Sim,no segmento lateral do lobo médio e no lobo inferior direito,até 3 mm
+699,Sim,Não,Não,Não,Não,no segmento basal anterior do lobo inferior direito,"0,3 cm"
+701,Não,Não,Não,Não,Sim,no segmento ápico-posterior do lobo superior esquerdo,"0,3 x 0,27 cm"
+702,Não,Não,Não,Não,Não,no lobo superior esquerdo,"0,3 x 0,25 cm"
+703,Não,Não,Não,Sim,Não,no segmento posterior do lobo superior direito,"1,3 x 1,1 cm"
+706,Não,Não,Não,Não,Não,no segmento ápico - posterior do lobo superior esquerdo,"0,26 x 0,19 cm"
+707,Não,Não,Não,Não,Não,na língula,"0,37 x 0,35 cm"
+712,Não,Não,Não,Não,Não,no segmento basal posterior do lobo inferior direito,"0,6 cm"
+713,Não,Não,Não,Não,Sim,pelos campos pulmonares,"0,4 cm"
+715,Não,Não,Não,Não,Sim,no lobo inferior esquerdo,Não
+718,Não,Não,Sim,Não,Não,no lobo pulmonar superior direito,Não
+719,Sim,Não,Não,Não,Não,no segmento posterior do lobo superior direito,"0,3 x 0,2 cm"
+720,Não,Não,Não,Não,Sim,no segmento basal posterior do lobo inferior direito,"0,5 cm"
+721,Não,Não,Não,Não,Não,Não,Não
+725,Não,Não,Não,Não,Sim,no segmento basal posterior do lobo inferior esquerdo,"0,6 cm"
+726,Não,Não,Não,Não,Sim,no segmento basal posterior direito,"0,6 cm"
+727,Não,Não,Sim,Não,Não,no segmento posterior do lobo superior direito,"1,0 x 0,77 cm"
+731,Não,Não,Não,Não,Sim,no segmento basal posterior do lobo inferior direito,"0,6 cm"
+734,Sim,Não,Não,Não,Não,no segmento lateral do lobo médio,"0,5 cm"
+740,Não,Não,Sim,Não,Não,no segmento apical do lobo superior direito e apical do lobo inferior esquerdo,Não
+741,Não,Não,Não,Não,Não,no segmento anterior do lobo superior esquerdo,"0,26 x 0,24 cm"
+742,Não,Não,Sim,Não,Não,"Lobo superior direito, lobo médio e lobos inferiores",Não
+744,Não,Não,Sim,Não,Sim,no segmento basal lateral esquerdo,"1,0 x 0,9 cm"
+747,Sim,Não,Não,Não,Não,no segmento anterior do lobo superior direito,"0,5 x 0,4 cm"
+749,Não,Não,Não,Não,Não,no segmento superior do lobo inferior esquerdo,"0,51 x 0,36 cm"
+751,Não,Não,Não,Não,Sim,no segmento lingular superior,"0,7 cm"
+752,Não,Não,Não,Não,Não,Não,Não
+753,Sim,Sim,Não,Sim,Sim,no segmento medial do lobo médio,"2,9 cm"
+754,Não,Não,Não,Não,Não,no segmento ápico - posterior do lobo superior esquerdo,"0,46 x 0,27 cm"
+759,Não,Não,Não,Não,Não,no segmento posterior do lobo superior direito,"0,4 x 0,34 cm"
+760,Não,Não,Não,Não,Não,no segmento posterior do lobo superior direito,"0,8 cm"
+764,Não,Não,Sim,Sim,Não,"bilateralmente, esparsos",Não
+765,Não,Não,Não,Não,Não,segmento basal lateral do lobo inferior do pulmão direito,Não
+767,Não,Não,Não,Não,Sim,no segmento apical do lobo inferior esquerdo,Não
+770,Não,Não,Não,Não,Não,Não,Não
+771,Não,Não,Não,Não,Não,no segmento posterior basal direito,6 mm
+774,Não,Não,Sim,Não,Não,Segmento lateral do lobo médio,5 mm
+776,Não,Não,Não,Não,Não,no segmento basal posterior direito,"0,49 x 0,41 cm"
+777,Não,Não,Não,Sim,Sim,na língula e no segmento basal posterior direito,"0,8 x 0,57 cm"
+782,Sim,Não,Não,Não,Sim,na área central do lobo superior à direita e na área central do segmento posterior do lobo inferior à esquerda,"3,9 mm e 6,5 mm"
+792,Não,Não,Não,Não,Não,no segmento ápico - posterior do lobo superior esquerdo,"0,75 x 0,59 cm"
+795,Sim,Não,Não,Não,Sim,na periferia do segmento posterior no lobo inferior à direita,3 mm
+797,Sim,Não,Não,Não,Não,no segmento posterior do lobo superior direito,"0,4 cm"
+798,Não,Não,Sim,Não,Não,no segmento superior do lobo inferior à esquerda,3 mm
+800,Não,Não,Não,Não,Não,Não,Não
+803,Não,Não,Não,Não,Sim,no segmento apicoposterior e no segmento lingular superior,9 mm
+806,Não,Não,Sim,Não,Não,no segmento anterior do lobo superior direito,4 mm
+807,Não,Não,Não,Não,Não,Não,Não
+811,Sim,Não,Não,Não,Não,no segmento posterior do lobo superior direito,"0,8 x 0,5 cm"
+813,Não,Não,Não,Não,Sim,no segmento apical do lobo superior direito,"0,4 cm"
+818,Não,Não,Não,Não,Não,na periferia do segmento basal posterior direito,"0,3 cm"
+819,Não,Não,Não,Não,Não,no segmento anterior do lobo superior esquerdo,"0,28 x 0,14 cm"
+820,Não,Não,Não,Não,Não,no segmento basal posterior direito,"0,41 x 0,33 cm"
+821,Sim,Não,Não,Não,Não,no segmento lateral do lobo médio,"0,7 cm"
+822,Sim,Não,Não,Não,Não,esparsos bilateralmente,"0,4 cm"
+824,Não,Não,Não,Não,Não,Não,Não
+830,Não,Não,Não,Não,Não,no segmento basal posterior do lobo inferior direito,"0,9 cm"
+832,Não,Não,Não,Sim,Sim,no segmento basal anterior do lobo inferior esquerdo,"0,8 cm"
+834,Não,Não,Não,Não,Não,no segmento ápico-posterior do lobo superior esquerdo,"4,5 mm"
+835,Não,Não,Não,Não,Sim,no segmento basal posterior esquerdo,Não
+836,Não,Não,Sim,Não,Não,na transição dos segmentos do lobo superior esquerdo,"0,35 x 0,32 cm"
+839,Não,Não,Não,Não,Sim,no segmento anterior do lobo inferior esquerdo,"0,5 cm"
+840,Não,Não,Não,Não,Sim,no lobo inferior direito,"1,3 x 1,2 cm"
+847,Não,Não,Não,Não,Sim,no segmento basal lateral esquerdo,"0,62 x 0,46 cm"
+848,Sim,Não,Não,Não,Não,"no lobo médio, subfissural","0,3 cm"
+849,Não,Não,Não,Não,Não,Segmentos basal posterior e anterior esquerdos,Não
+851,Não,Não,Não,Não,Sim,no segmento superior do lobo inferior direito,"0,3 cm"
+853,Sim,Não,Não,Sim,Não,na região mais central perihilar do lobo superior esquerdo,"17 x 15,3 x 13,1 mm"
+854,Não,Não,Não,Não,Não,no segmento apical esquerdo e no segmento lateral do lobo médio,"0,5 x 0,4 cm e 0,3 x 0,2 cm"
+855,Não,Não,Não,Não,Não,Não,Não
+858,Não,Não,Sim,Sim,Não,no lobo superior direito,Não
+859,Não,Não,Não,Não,Não,Não,Não
+864,Não,Não,Não,Não,Não,no segmento posterior do lobo inferior do pulmão esquerdo,"0,5 cm"
+865,Não,Não,Sim,Não,Não,no segmento basal posterior esquerdo,"0,28 x 0,23 cm"
+867,Sim,Não,Não,Não,Não,no segmento lateral do lobo médio,"1,0 x 0,9 cm"
+871,Não,Não,Não,Não,Sim,no segmento lingular superior,"0,7 cm"
+873,Sim,Não,Não,Não,Não,no segmento anterior do lobo superior esquerdo,"0,4 x 0,3 cm"
+874,Sim,Não,Não,Não,Não,no lobo médio,5 x 3 mm
+875,Não,Não,Sim,Não,Sim,no segmento anterior da base do lobo inferior direito,4 mm
+877,Não,Não,Sim,Não,Sim,no segmento superior do lobo inferior direito,"0,68 x 0,35 cm"
+880,Não,Não,Não,Não,Não,em ambos os pulmões,"até 0,4 cm"
+881,Não,Sim,Não,Não,Sim,no subsegmento posterior do lobo superior esquerdo,"0,9 x 0,6 cm"
+883,Não,Não,Não,Não,Sim,no lobo superior esquerdo,Não
+885,Não,Não,Não,Não,Não,no segmento apical do lobo direito,"0,23 x 0,16 cm"
+886,Sim,Não,Não,Não,Sim,Periferia do lobo superior à esquerda,4 mm
+893,Sim,Não,Não,Não,Não,na periferia do lobo superior a esquerda,"2,5 mm"
+895,Sim,Não,Não,Não,Não,no segmento basal lateral esquerdo,"0,4 cm"
+896,Não,Não,Não,Não,Sim,no segmento superior do lobo inferior esquerdo,"0,4 cm"
+900,Não,Sim,Sim,Não,Sim,na transição dos segmentos basal posterior e lateral do lobo inferior esquerdo e no segmento superior do lobo inferior direito,"0,6 cm e 0,7 cm"
+907,Não,Não,Não,Não,Sim,no segmento posterior do lobo superior direito,"0,3 cm"
+912,Não,Não,Não,Não,Não,Não,Não
+913,Não,Não,Não,Não,Sim,no segmento basal posterior do lobo inferior esquerdo,Não
+915,Não,Não,Sim,Não,Não,nos segmentos apical e anterior do lobo superior direito,Não
+917,Não,Não,Não,Não,Não,no segmento apical do lobo superior direito,"0,41 x 0,34 cm"
+919,Não,Não,Não,Não,Não,no segmento superior do lobo inferior esquerdo,"0,2 cm"
+924,Não,Não,Não,Não,Sim,"no segmento lateral do lobo médio, junto a fissura maior","0,7 cm"
+936,Não,Não,Não,Não,Não,Não,Não
+939,Sim,Não,Não,Sim,Não,no segmento basal posterior direito,"0,6 cm"
+942,Não,Não,Não,Não,Sim,no lobo inferior esquerdo,Não
+943,Não,Não,Não,Não,Não,"Periféricos, esparsos por ambos os pulmões",Não
+944,Não,Não,Sim,Não,Não,no segmento apical do lobo inferior esquerdo,Não
+949,Não,Não,Não,Não,Não,no segmento basal posterior do lobo inferior direito,"0,6 cm"
+950,Não,Não,Não,Não,Sim,no segmento basal lateral direito,"0,5 cm"
+952,Não,Não,Não,Não,Não,Não,Não
+954,Não,Não,Não,Não,Sim,na língula,"4,8 mm"
+957,Não,Não,Não,Não,Não,Não,Não
+958,Não,Não,Não,Não,Não,Não,Não
+962,Não,Não,Sim,Não,Não,segmentos basal anterior e basal lateral à direita,Não

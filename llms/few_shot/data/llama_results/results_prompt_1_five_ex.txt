@@ -1,0 +1,578 @@
+{"Id do laudo": 5, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 8, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 14, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 15, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 20, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior esquerdo", "Tamanho do nódulo": "0,26 x 0,16 cm"}
+
+{"Id do laudo": 23, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 38, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo hepático direito", "Tamanho do nódulo": "1,1 cm"}
+
+{"Id do laudo": 43, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 44, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo inferior direito", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 45, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior esquerdo", "Tamanho do nódulo": "0,5 cm"}
+
+{"Id do laudo": 46, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo inferior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 50, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento apical esquerdo", "Tamanho do nódulo": "0,5 x 0,3 cm"}
+
+{"Id do laudo": 51, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 57, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento superior do lobo inferior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 58, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento medial do lobo médio (pulmão direito)", "Tamanho do nódulo": "0,6 x 0,5 cm"}
+
+{"Id do laudo": 66, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento lateral do lobo médio (pulmão direito)", "Tamanho do nódulo": "0,4 cm"}
+
+{"Id do laudo": 71, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 73, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior esquerdo", "Tamanho do nódulo": "0,23 x 0,18 cm"}
+
+{"Id do laudo": 80, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior direito e no segmento basal lateral direito", "Tamanho do nódulo": "1,3 x 1,2 cm e 0,43 x 0,3 cm"}
+
+{"Id do laudo": 86, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Parênquima pulmonar", "Tamanho do nódulo": "Diversos tamanhos"}
+
+{"Id do laudo": 89, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior esquerdo e no espaço para-aórtico", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 106, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento posterior do lobo superior direito", "Tamanho do nódulo": "2,2 x 1,7 cm"}
+
+{"Id do laudo": 109, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo médio", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 119, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento basal anterior direito", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 126, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento posterior do lobo inferior direito e no lobo superior esquerdo", "Tamanho do nódulo": "5,8 x 5,3 cm e 3,4 cm"}
+
+{"Id do laudo": 127, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo superior direito, no segmento posterior", "Tamanho do nódulo": "1,0 cm"}
+
+{"Id do laudo": 128, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 130, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na periferia lateral da lingula", "Tamanho do nódulo": "8,9 mm"}
+
+{"Id do laudo": 132, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "na periferia do segmento superior do lobo inferior a direita", "Tamanho do nódulo": "2,5 mm"}
+
+{"Id do laudo": 135, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior direito", "Tamanho do nódulo": "0,51 x 0,37 cm"}
+
+{"Id do laudo": 137, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo inferior do pulmão direito e no lobo médio", "Tamanho do nódulo": "1,8 cm e 1,8 cm"}
+
+{"Id do laudo": 138, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 141, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento basal anterior direito", "Tamanho do nódulo": "0,5 x 0,4 cm"}
+
+{"Id do laudo": 145, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento superior do lobo inferior do pulmão direito", "Tamanho do nódulo": "0,5 cm"}
+
+{"Id do laudo": 146, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior direito", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 148, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior direito", "Tamanho do nódulo": "0,3 x 0,26 cm"}
+
+{"Id do laudo": 153, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "em ambos os pulmões", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 158, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior esquerdo", "Tamanho do nódulo": "0,6 cm"}
+
+{"Id do laudo": 159, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento posterior do lobo superior direito", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 161, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 163, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento apical direito", "Tamanho do nódulo": "0,4 cm"}
+
+{"Id do laudo": 171, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento apicoposterior, do lobo superior esquerdo", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 176, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 199, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo inferior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 201, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 206, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 211, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento apicoposterior esquerda", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 212, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 213, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior esquerdo", "Tamanho do nódulo": "0,6 cm"}
+
+{"Id do laudo": 215, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior esquerdo", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 216, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento superiordo lobo inferior direito", "Tamanho do nódulo": "0,9 cm"}
+
+{"Id do laudo": 217, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo médio", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 219, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 220, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento posterior do lobo superior direito", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 222, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento basal lateral do lobo inferior direita", "Tamanho do nódulo": "0,4 cm"}
+
+{"Id do laudo": 224, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo médio", "Tamanho do nódulo": "0,4 cm"}
+
+{"Id do laudo": 226, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento lingular inferior do lobo superior esquerdo", "Tamanho do nódulo": "0,5 cm"}
+
+{"Id do laudo": 230, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "na base pulmonar esquerda (segmento basal lateral)", "Tamanho do nódulo": "1,0 x 1,0 cm"}
+
+{"Id do laudo": 232, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na transição de lobo superior esquerdo e língula", "Tamanho do nódulo": "0,38 x 0,34 cm"}
+
+{"Id do laudo": 238, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "segmento posterior do lobo inferior a direita", "Tamanho do nódulo": "7 mm"}
+
+{"Id do laudo": 240, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 241, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Sim", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo médio", "Tamanho do nódulo": "1,0 cm"}
+
+{"Id do laudo": 244, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior do lobo inferior esquerdo", "Tamanho do nódulo": "0,6 cm"}
+
+{"Id do laudo": 248, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo inferior direito", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 259, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior esquerdo e no segmento basal anterior do lobo inferior direito", "Tamanho do nódulo": "5 mm"}
+
+{"Id do laudo": 260, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento medial do lobo médio", "Tamanho do nódulo": "0,2 x 0,1 cm"}
+
+{"Id do laudo": 262, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 265, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior direito e no segmento anterior do lobo superior esquerdo", "Tamanho do nódulo": "0,9 cm e 0,5 cm"}
+
+{"Id do laudo": 266, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento apical do lobo superior direito", "Tamanho do nódulo": "3 mm"}
+
+{"Id do laudo": 277, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento medial do lobo médio", "Tamanho do nódulo": "0,5 cm"}
+
+{"Id do laudo": 280, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "na periferia do lobo superior à direita", "Tamanho do nódulo": "5,4 mm"}
+
+{"Id do laudo": 283, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento apical do lobo superior direito", "Tamanho do nódulo": "1,0 cm"}
+
+{"Id do laudo": 297, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "basal à direita", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 302, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Lobo superior a direita e lobo esquerdo", "Tamanho do nódulo": "4 mm e 3,5 mm"}
+
+{"Id do laudo": 304, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior direito", "Tamanho do nódulo": "0,43 x 0,41 cm"}
+
+{"Id do laudo": 311, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo médio e segmento anterior do lobo superior do pulmão direito", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 313, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 319, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento lingular superior", "Tamanho do nódulo": "0,4 cm"}
+
+{"Id do laudo": 325, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento basal posterior do lobo inferior direito", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 331, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "nos segmentos basal anterior do lobo inferior direito e apical do lobo esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 332, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior direito", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 340, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "em topografia peribrônquio vascular central do lobo superior a direita", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 344, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 345, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 347, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo inferior direito", "Tamanho do nódulo": "subcentimétrico"}
+
+{"Id do laudo": 353, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 354, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 359, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 360, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no subsegmento posterior do lobo superior esquerdo", "Tamanho do nódulo": "0,4 x 0,3 cm"}
+
+{"Id do laudo": 370, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Não", "Localização do nódulo": "em ambos os pulmões, mais evidentes nos lobos superiores", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 372, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "em ápices pulmonar esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 373, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior direito", "Tamanho do nódulo": "0,31 x 0,28 cm"}
+
+{"Id do laudo": 377, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo superior esquerdo e lobo médio", "Tamanho do nódulo": "0,7 cm"}
+
+{"Id do laudo": 391, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 398, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "circunscrito em projeção da periferia do segmento lateral do lobo médio", "Tamanho do nódulo": "5,6 mm"}
+
+{"Id do laudo": 399, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento lateral do lobo médio", "Tamanho do nódulo": "8 mm"}
+
+{"Id do laudo": 404, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "em ambos os pulmões", "Tamanho do nódulo": "< 0,4 cm"}
+
+{"Id do laudo": 405, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "nos segmentos basais anterior e lateral do lobo inferior direito e no lobo superior esquerdo", "Tamanho do nódulo": "10 mm e 4 mm"}
+
+{"Id do laudo": 411, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior do lobo inferior direito", "Tamanho do nódulo": "0,6 cm"}
+
+{"Id do laudo": 412, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "Lobo superior a direita", "Tamanho do nódulo": "4 mm"}
+
+{"Id do laudo": 418, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento posterior do lobo inferior a esquerda", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 423, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento apical direito", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 424, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento lateral do lobo médio e no segmento anterior do lobo superior direito", "Tamanho do nódulo": "1,0 x 0,7 cm e 0,6 x 0,5 cm"}
+
+{"Id do laudo": 425, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 426, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento superior do lobo inferior direito", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 429, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Periferia do lobo médio", "Tamanho do nódulo": "3 mm"}
+
+{"Id do laudo": 436, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento basal posterior do lobo inferior direito", "Tamanho do nódulo": "4 mm"}
+
+{"Id do laudo": 440, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na transição dos segmentos do lobo superior esquerdo", "Tamanho do nódulo": "0,35 x 0,33 cm"}
+
+{"Id do laudo": 448, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo médio (pulmão direito)", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 450, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior direito e no segmento anterior do lobo superior esquerdo", "Tamanho do nódulo": "0,5 cm"}
+
+{"Id do laudo": 453, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo médio (pulmão direito)", "Tamanho do nódulo": "0,5 cm"}
+
+{"Id do laudo": 455, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento apical direito", "Tamanho do nódulo": "0,4 cm"}
+
+{"Id do laudo": 462, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior direito", "Tamanho do nódulo": "0,4 x 0,45 cm"}
+
+{"Id do laudo": 463, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Bilateralmente", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 467, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento lobo superior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 478, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na periferia do lobo médio a direita", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 479, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 480, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Sim", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "Segmento apico-posterior do lobo superior esquerdo e segmento superior do lobo inferior do pulmão esquerdo", "Tamanho do nódulo": "0,6 cm e 0,8 cm"}
+
+{"Id do laudo": 483, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento posterior do lobo superior direito", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 487, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo inferior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 489, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento superior do lobo inferior esquerdo", "Tamanho do nódulo": "1,6 x 1,1 cm"}
+
+{"Id do laudo": 490, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior do lobo inferior esquerdo e no segmento lingular superior", "Tamanho do nódulo": "0,3 cm e 0,4 cm"}
+
+{"Id do laudo": 491, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento II hepático", "Tamanho do nódulo": "1,6 x 1,3 cm"}
+
+{"Id do laudo": 501, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento apical do lobo inferior à esquerda", "Tamanho do nódulo": "6 mm"}
+
+{"Id do laudo": 503, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "peri-hilar à direita e na periferia do lobo inferior direito", "Tamanho do nódulo": "6,3 x 4,9 x 3,6 cm"}
+
+{"Id do laudo": 506, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento superior do lobo inferior direito", "Tamanho do nódulo": "1,0 cm"}
+
+{"Id do laudo": 514, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo superior esquerdo, subsegmento posterior", "Tamanho do nódulo": "0,6 cm"}
+
+{"Id do laudo": 519, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior esquerdo", "Tamanho do nódulo": "0,5 x 0,36 cm e 0,51 x 0,34 cm"}
+
+{"Id do laudo": 531, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento apical do lobo inferior direito e no segmento posterior do lobo superior direito", "Tamanho do nódulo": "4 mm"}
+
+{"Id do laudo": 540, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no ápice pulmonar à direita", "Tamanho do nódulo": "5 mm"}
+
+{"Id do laudo": 541, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento superior do lobo inferior esquerdo subpleural", "Tamanho do nódulo": "13 x 11,5 x 17 mm"}
+
+{"Id do laudo": 542, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo superior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 546, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Periferia lateral do lobo superior a direita", "Tamanho do nódulo": "6,3 mm"}
+
+{"Id do laudo": 547, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 550, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento posterior do lobo superior direito", "Tamanho do nódulo": "0,48 x 0,46 cm"}
+
+{"Id do laudo": 552, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior direito", "Tamanho do nódulo": "0,31 cm"}
+
+{"Id do laudo": 554, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento superior do lobo inferior direito", "Tamanho do nódulo": "0,32 x 0,28 cm"}
+
+{"Id do laudo": 556, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no aspecto posterior do segmento apical direito", "Tamanho do nódulo": "3,3 x 3,1 cm"}
+
+{"Id do laudo": 557, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 558, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento superior do lobo inferior direito", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 559, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no ápice pulmonar direito", "Tamanho do nódulo": "0,85 x 0,52 cm"}
+
+{"Id do laudo": 560, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Sim", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 573, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 576, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 577, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior esquerdo", "Tamanho do nódulo": "0,25 x 0,23 cm"}
+
+{"Id do laudo": 583, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo médio", "Tamanho do nódulo": "3,5 mm"}
+
+{"Id do laudo": 589, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento basal posterior do lobo inferior esquerdo", "Tamanho do nódulo": "2,6 x 1,6 x 1,8 cm"}
+
+{"Id do laudo": 591, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento superior do lobo inferior direito", "Tamanho do nódulo": "0,6 cm"}
+
+{"Id do laudo": 595, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento posterior do lobo superior direito e no segmento basal anterior esquerdo", "Tamanho do nódulo": "6 mm"}
+
+{"Id do laudo": 598, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal anterior esquerdo", "Tamanho do nódulo": "0,25 x 0,23 cm"}
+
+{"Id do laudo": 600, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na periferia do lobo superior esquerdo", "Tamanho do nódulo": "0,36 x 0,26 cm"}
+
+{"Id do laudo": 602, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 613, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento superior do lobo inferior esquerdo e no segmento basal posterior do lobo inferior direito", "Tamanho do nódulo": "1,1 x 0,8 cm e 0,5 cm"}
+
+{"Id do laudo": 615, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "Subpleural, no segmento basal posterior do lobo inferior direito", "Tamanho do nódulo": "0,7 cm"}
+
+{"Id do laudo": 616, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo inferior esquerdo", "Tamanho do nódulo": "1,0 cm"}
+
+{"Id do laudo": 618, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo médio (pulmão direito)", "Tamanho do nódulo": "1,1 x 1,0 cm"}
+
+{"Id do laudo": 619, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 624, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo superior a esquerda - segmento apico posterior", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 627, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento superior do lobo inferior direito", "Tamanho do nódulo": "0,25 x 0,22 cm"}
+
+{"Id do laudo": 629, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento lateral basal direito", "Tamanho do nódulo": "2 mm"}
+
+{"Id do laudo": 634, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "em ambos os pulmões", "Tamanho do nódulo": "0,4 x 0,2 cm"}
+
+{"Id do laudo": 635, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na periferia dos segmentos basais do lobo direito", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 637, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na base pulmonar direita", "Tamanho do nódulo": "0,75 x 0,34 cm"}
+
+{"Id do laudo": 640, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento apical do lobo superior direito", "Tamanho do nódulo": "0,36 x 0,34 cm"}
+
+{"Id do laudo": 646, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no subsegmento apical esquerdo", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 650, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento apical do lobo superior direito", "Tamanho do nódulo": "5 x 3 mm"}
+
+{"Id do laudo": 659, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "segmento basal lateral esquerdo", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 660, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Periferia do segmento posterior do lobo inferior esquerdo", "Tamanho do nódulo": "4 mm"}
+
+{"Id do laudo": 661, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Lobo inferior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 662, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo superior esquerdo", "Tamanho do nódulo": "0,5 cm"}
+
+{"Id do laudo": 665, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "em ambos os pulmões", "Tamanho do nódulo": "0,9 cm"}
+
+{"Id do laudo": 666, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento superior do lobo inferior direito", "Tamanho do nódulo": "0,9 x 0,6 cm"}
+
+{"Id do laudo": 673, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo médio", "Tamanho do nódulo": "1,6 x 1,4 cm"}
+
+{"Id do laudo": 674, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 675, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento superior do lobo inferior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 677, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na periferia do segmento basal lateral direito", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 680, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal lateral direito e no segmento superior do lobo inferior direito", "Tamanho do nódulo": "0,8 cm"}
+
+{"Id do laudo": 684, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "circunscrito no segmento superior do lobo inferior à esquerda", "Tamanho do nódulo": "3 mm"}
+
+{"Id do laudo": 691, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior do lobo inferior direito", "Tamanho do nódulo": "0,5 cm"}
+
+{"Id do laudo": 693, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Periferia do lobo médio a direita", "Tamanho do nódulo": "10,6 mm"}
+
+{"Id do laudo": 694, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal medial do lobo inferior direito", "Tamanho do nódulo": "0,4 cm"}
+
+{"Id do laudo": 697, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento lateral do lobo médio e no lobo inferior direito, e no segmento apical do lobo inferior esquerdo", "Tamanho do nódulo": "até 3 mm e 5 mm"}
+
+{"Id do laudo": 699, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento basal anterior do lobo inferior direito", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 701, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento ápico-posterior do lobo superior esquerdo", "Tamanho do nódulo": "0,3 x 0,27 cm"}
+
+{"Id do laudo": 702, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo superior esquerdo", "Tamanho do nódulo": "0,3 x 0,25 cm"}
+
+{"Id do laudo": 703, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento posterior do lobo superior direito", "Tamanho do nódulo": "1,3 x 1,1 cm"}
+
+{"Id do laudo": 706, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento ápico-posterior do lobo superior esquerdo", "Tamanho do nódulo": "0,26 x 0,19 cm"}
+
+{"Id do laudo": 707, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na língula", "Tamanho do nódulo": "0,37 x 0,35 cm"}
+
+{"Id do laudo": 712, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento basal posterior do lobo inferior direito", "Tamanho do nódulo": "0,6 cm"}
+
+{"Id do laudo": 713, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "pelos campos pulmonares", "Tamanho do nódulo": "0,4 cm"}
+
+{"Id do laudo": 715, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo inferior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 718, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo pulmonar superior direito", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 719, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento posterior do lobo superior direito", "Tamanho do nódulo": "0,3 x 0,2 cm"}
+
+{"Id do laudo": 720, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior do lobo inferior direito", "Tamanho do nódulo": "0,5 cm"}
+
+{"Id do laudo": 721, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 725, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior do lobo inferior esquerdo", "Tamanho do nódulo": "0,6 cm"}
+
+{"Id do laudo": 726, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior direito", "Tamanho do nódulo": "0,6 cm"}
+
+{"Id do laudo": 727, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento posterior do lobo superior direito", "Tamanho do nódulo": "1,0 x 0,77 cm"}
+
+{"Id do laudo": 731, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior do lobo inferior direito", "Tamanho do nódulo": "0,6 cm"}
+
+{"Id do laudo": 734, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento lateral do lobo médio", "Tamanho do nódulo": "0,5 cm"}
+
+{"Id do laudo": 740, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento apical do lobo superior direito e apical do lobo inferior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 741, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento anterior do lobo superior esquerdo", "Tamanho do nódulo": "0,26 x 0,24 cm"}
+
+{"Id do laudo": 742, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Lobo superior direito, lobo médio e lobos inferiores", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 744, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal lateral esquerdo", "Tamanho do nódulo": "1,0 x 0,9 cm"}
+
+{"Id do laudo": 747, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento anterior do lobo superior direito", "Tamanho do nódulo": "0,5 x 0,4 cm"}
+
+{"Id do laudo": 749, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento superior do lobo inferior esquerdo", "Tamanho do nódulo": "0,51 x 0,36 cm"}
+
+{"Id do laudo": 751, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento lingular superior", "Tamanho do nódulo": "0,7 cm"}
+
+{"Id do laudo": 752, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 753, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Sim", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento medial do lobo médio", "Tamanho do nódulo": "2,9 cm"}
+
+{"Id do laudo": 754, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento ápico-posterior do lobo superior esquerdo", "Tamanho do nódulo": "0,46 x 0,27 cm"}
+
+{"Id do laudo": 759, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento posterior do lobo superior direito", "Tamanho do nódulo": "0,4 x 0,34 cm"}
+
+{"Id do laudo": 760, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento posterior do lobo superior direito", "Tamanho do nódulo": "0,8 cm"}
+
+{"Id do laudo": 764, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 765, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 767, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento apical do lobo inferior esquerdo", "Tamanho do nódulo": "0,7 cm"}
+
+{"Id do laudo": 770, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 771, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento posterior basal direito", "Tamanho do nódulo": "6 mm"}
+
+{"Id do laudo": 774, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Segmento lateral do lobo médio", "Tamanho do nódulo": "5 mm"}
+
+{"Id do laudo": 776, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior direito", "Tamanho do nódulo": "0,49 x 0,41 cm"}
+
+{"Id do laudo": 777, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na língula", "Tamanho do nódulo": "0,8 x 0,57 cm"}
+
+{"Id do laudo": 782, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na área central do lobo superior à direita e na área central do segmento posterior do lobo inferior à esquerda", "Tamanho do nódulo": "3,9 mm e 6,5 mm"}
+
+{"Id do laudo": 792, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento ápico-posterior do lobo superior esquerdo", "Tamanho do nódulo": "0,75 x 0,59 cm"}
+
+{"Id do laudo": 795, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na periferia do segmento posterior no lobo inferior à direita", "Tamanho do nódulo": "3 mm"}
+
+{"Id do laudo": 797, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento posterior do lobo superior direito", "Tamanho do nódulo": "0,4 cm"}
+
+{"Id do laudo": 798, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento superior do lobo inferior a esquerda e no segmento apical do lobo superior a direita", "Tamanho do nódulo": "3 mm"}
+
+{"Id do laudo": 800, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 803, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento apicoposterior e no segmento lingular superior", "Tamanho do nódulo": "9 mm e 3 mm"}
+
+{"Id do laudo": 806, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento anterior do lobo superior direito e no segmento apical do lobo inferior esquerdo", "Tamanho do nódulo": "4 mm"}
+
+{"Id do laudo": 807, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 811, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento posterior do lobo superior direito", "Tamanho do nódulo": "0,8 x 0,5 cm"}
+
+{"Id do laudo": 813, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento apical do lobo superior direito", "Tamanho do nódulo": "0,4 cm"}
+
+{"Id do laudo": 818, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "na periferia do segmento basal posterior direito", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 819, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento anterior do lobo superior esquerdo", "Tamanho do nódulo": "0,28 x 0,14 cm"}
+
+{"Id do laudo": 820, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior direito", "Tamanho do nódulo": "0,41 x 0,33 cm"}
+
+{"Id do laudo": 821, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento lateral do lobo médio", "Tamanho do nódulo": "0,7 cm"}
+
+{"Id do laudo": 822, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "esparsos bilateralmente", "Tamanho do nódulo": "0,4 cm"}
+
+{"Id do laudo": 824, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo inferior direito", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 830, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento basal posterior do lobo inferior direito", "Tamanho do nódulo": "0,9 x 0,8 cm"}
+
+{"Id do laudo": 832, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal anterior do lobo inferior esquerdo e no segmento basal posterior esquerdo", "Tamanho do nódulo": "0,8 cm e não especificado"}
+
+{"Id do laudo": 834, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento ápico-posterior do lobo superior esquerdo", "Tamanho do nódulo": "4,5 mm"}
+
+{"Id do laudo": 835, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 836, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na transição dos segmentos do lobo superior esquerdo", "Tamanho do nódulo": "0,35 x 0,32 cm"}
+
+{"Id do laudo": 839, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior do lobo inferior esquerdo", "Tamanho do nódulo": "0,5 cm"}
+
+{"Id do laudo": 840, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo inferior direito e no ápice pulmonar esquerdo", "Tamanho do nódulo": "1,3 x 1,2 cm"}
+
+{"Id do laudo": 847, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal lateral esquerdo", "Tamanho do nódulo": "0,62 x 0,46 cm"}
+
+{"Id do laudo": 848, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo médio, subfissural", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 849, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "segmentos basal posterior e anterior esquerdos", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 851, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento superior do lobo inferior direito", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 853, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Não", "Localização do nódulo": "na região mais central perihilar do lobo superior esquerdo", "Tamanho do nódulo": "17 x 15,3 x 13,1 mm"}
+
+{"Id do laudo": 854, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento apical esquerdo e no segmento lateral do lobo médio", "Tamanho do nódulo": "0,5 x 0,4 cm e 0,3 x 0,2 cm"}
+
+{"Id do laudo": 855, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 858, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo superior direito", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 859, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 864, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento posterior do lobo inferior do pulmão esquerdo", "Tamanho do nódulo": "0,5 cm"}
+
+{"Id do laudo": 865, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior esquerdo", "Tamanho do nódulo": "0,28 x 0,23 cm"}
+
+{"Id do laudo": 867, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento lateral do lobo médio", "Tamanho do nódulo": "1,0 x 0,9 cm"}
+
+{"Id do laudo": 871, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento lingular superior", "Tamanho do nódulo": "0,7 cm"}
+
+{"Id do laudo": 873, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento anterior do lobo superior esquerdo", "Tamanho do nódulo": "0,4 x 0,3 cm"}
+
+{"Id do laudo": 874, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no lobo médio", "Tamanho do nódulo": "5 x 3 mm"}
+
+{"Id do laudo": 875, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento anterior da base do lobo inferior direito", "Tamanho do nódulo": "4 mm"}
+
+{"Id do laudo": 877, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento superior do lobo inferior direito", "Tamanho do nódulo": "0,68 x 0,35 cm"}
+
+{"Id do laudo": 880, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "em ambos os pulmões", "Tamanho do nódulo": "até 0,4 cm"}
+
+{"Id do laudo": 881, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no subsegmento posterior do lobo superior esquerdo", "Tamanho do nódulo": "0,9 x 0,6 cm"}
+
+{"Id do laudo": 883, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo superior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 885, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento apical do lobo direito", "Tamanho do nódulo": "0,23 x 0,16 cm"}
+
+{"Id do laudo": 886, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "Periferia do lobo superior à esquerda", "Tamanho do nódulo": "4 mm"}
+
+{"Id do laudo": 893, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "na periferia do lobo superior a esquerda", "Tamanho do nódulo": "2,5 mm"}
+
+{"Id do laudo": 895, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento apical do lobo superior direito e no segmento basal lateral esquerdo", "Tamanho do nódulo": "0,3 cm e 0,4 cm"}
+
+{"Id do laudo": 896, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento superior do lobo inferior esquerdo", "Tamanho do nódulo": "0,4 cm"}
+
+{"Id do laudo": 900, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na transição dos segmento basal posterior e lateral do lobo inferior esquerdo e no segmento superior do lobo inferior direito", "Tamanho do nódulo": "0,6 cm e 0,7 cm"}
+
+{"Id do laudo": 907, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento posterior do lobo superior direito", "Tamanho do nódulo": "0,3 cm"}
+
+{"Id do laudo": 912, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "nos lobos superiores e inferiores de ambos os pulmões", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 913, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal posterior do lobo inferior esquerdo", "Tamanho do nódulo": "subcentimétrico"}
+
+{"Id do laudo": 915, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "nos segmentos apical e anterior do lobo superior direito", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 917, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento apical do lobo superior direito", "Tamanho do nódulo": "0,41 x 0,34 cm"}
+
+{"Id do laudo": 919, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento superior do lobo inferior esquerdo", "Tamanho do nódulo": "0,2 cm"}
+
+{"Id do laudo": 924, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento lateral do lobo médio, junto a fissura maior", "Tamanho do nódulo": "0,7 cm"}
+
+{"Id do laudo": 936, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 939, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Sim", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento apicoposterior do lobo superior esquerdo e no segmento basal posterior direito", "Tamanho do nódulo": "0,6 cm"}
+
+{"Id do laudo": 942, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no lobo inferior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 943, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "Hilo pulmonar direito", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 944, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento apical do lobo inferior esquerdo", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 949, "O nódulo é sólido ou em partes moles?": "Sim", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "no segmento basal posterior do lobo inferior direito", "Tamanho do nódulo": "0,6 x 0,6 cm"}
+
+{"Id do laudo": 950, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "no segmento basal lateral direito", "Tamanho do nódulo": "0,5 cm"}
+
+{"Id do laudo": 952, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 954, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Sim", "Localização do nódulo": "na língula", "Tamanho do nódulo": "4,8 mm"}
+
+{"Id do laudo": 957, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 958, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Não", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "Não", "Tamanho do nódulo": "Não"}
+
+{"Id do laudo": 962, "O nódulo é sólido ou em partes moles?": "Não", "O nódulo tem densidade semissólida ou parcialmente sólida?": "Não", "O nódulo é em vidro fosco?": "Sim", "O nódulo é espiculado, irregular ou mal definido?": "Não", "O nódulo é calcificado?": "Não", "Localização do nódulo": "segmentos basal anterior e basal lateral à direita", "Tamanho do nódulo": "Não"}
+

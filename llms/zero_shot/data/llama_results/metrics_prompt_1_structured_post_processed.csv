@@ -1,0 +1,8 @@
+Coluna,Precision,Recall,F1 Score
+"('O nódulo é sólido ou em partes moles?', 'O nódulo é sólido ou em partes moles?')",0.5,1.0,0.6666666666666666
+"('O nódulo tem densidade semissólida ou parcialmente sólida?', 'O nódulo tem densidade semissólida ou parcialmente sólida?')",0.0,0,0
+"('O nódulo tem densidade em vidro fosco?', 'O nódulo é em vidro fosco?')",0.05555555555555555,1.0,0.10526315789473684
+"('O nódulo tem borda espiculada e/ou mal definida?', 'O nódulo é espiculado, irregular ou mal definido?')",0.24242424242424243,1.0,0.3902439024390244
+"('O nódulo é calcificado?', 'O nódulo é calcificado?')",0.7818181818181819,0.7226890756302521,0.7510917030567685
+"('Localização do nódulo', 'Localização do nódulo')",0.6955017301038062,1.0,0.8204081632653061
+"('Tamanho do nódulo (mm)', 'Tamanho do nódulo (mm)')",0.5709342560553633,1.0,0.7268722466960351
